@@ -41,7 +41,7 @@ Given a version number **MAJOR.MINOR.PATCH**, increment the:
 | AWS EC2 Instances | git@github.com:Pyxis-Portal/infra-devops-tf-aws-bastion.git | git@github.com:Pyxis-Portal/tf-aws-ec2.git |
 | AWS ECR (Deprecated) | git@github.com:Pyxis-Portal/infra-devops-tf-aws-ecr.git | N/A |
 | AWS ECR V2 | git@github.com:Pyxis-Portal/infra-devops-tf-aws-ecr-v2.git | N/A |
-| AWS ECS | git@github.com:Pyxis-Portal/infra-devops-tf-aws-ecs.git | N/A |
+| AWS ECS (Deprecated) | git@github.com:Pyxis-Portal/infra-devops-tf-aws-ecs.git | N/A |
 | AWS ECS Scheduler (up/down) | git@github.com:Pyxis-Portal/pyxistech-cloudops-tf-aws-ecs-scheduler-up-down.git | N/A |
 | AWS ECS V2 | git@github.com:Pyxis-Portal/infra-devops-tf-aws-ecs-v2.git | N/A |
 | AWS ECS Task Definition | git@github.com:Pyxis-Portal/infra-devops-tf-aws-ecs-task-definition.git | N/A |
